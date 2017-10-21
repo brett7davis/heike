@@ -1,0 +1,33 @@
+{
+  "id": "9f88fd79-b28e-4360-bb82-623b3fc12675",
+  "name": "Friendly Post-Hallo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "gut",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Es geht mir gut! Und bei dir?",
+            "Leider nicht so gut.  Ich hoffe, dass es dir besser geht.",
+            "So so.  Warum fragst du?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508594295410,
+  "fallbackIntent": false,
+  "events": []
+}

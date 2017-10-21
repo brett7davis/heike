@@ -1,0 +1,26 @@
+[
+  {
+    "id": "59785f99-7232-4479-a8af-fdff9d9f0bf1",
+    "data": [
+      {
+        "text": "Regnet es Heute?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508593765
+  },
+  {
+    "id": "e319e989-f87e-4d42-840b-b79dfff66a7e",
+    "data": [
+      {
+        "text": "Wie ist das Wetter Heute?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

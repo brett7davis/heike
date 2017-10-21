@@ -1,0 +1,28 @@
+{
+  "id": "84edca75-aed3-452c-8429-a4c303d27069",
+  "name": "LieblingsLied",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Mir gefällt am liebsten Atemlos Durch Den Nacht von Helene Fischer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508594445655,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "32fa5701-3a53-4653-8cf1-598a90d15cb0",
+  "name": "Liebe-Love",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "shutDown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Nein, ich habe eine Frau."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508594355471,
+  "fallbackIntent": false,
+  "events": []
+}

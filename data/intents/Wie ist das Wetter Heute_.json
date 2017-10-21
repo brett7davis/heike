@@ -1,0 +1,29 @@
+{
+  "id": "2fd2f1c4-034a-4846-9a25-79911201bcd5",
+  "name": "Wie ist das Wetter Heute?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Weather",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Heute haben wir Kaiserwetter!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508593765,
+  "fallbackIntent": false,
+  "events": []
+}
